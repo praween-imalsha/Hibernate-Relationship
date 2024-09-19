@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eager_Fletch/Eager_Fletch.iml" filepath="$PROJECT_DIR$/Eager_Fletch/Eager_Fletch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HQL.iml" filepath="$PROJECT_DIR$/HQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JPQL.iml" filepath="$PROJECT_DIR$/JPQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lazy_Fletch.iml" filepath="$PROJECT_DIR$/Lazy_Fletch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relationship-In-Hibernate/Many_to_Many/Many_to_Many.iml" filepath="$PROJECT_DIR$/Relationship-In-Hibernate/Many_to_Many/Many_to_Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relationship-In-Hibernate/One_to_Many/One-to-Many.iml" filepath="$PROJECT_DIR$/Relationship-In-Hibernate/One_to_Many/One-to-Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Relationship-In-Hibernate/One-to-One/One-to-One.iml" filepath="$PROJECT_DIR$/Relationship-In-Hibernate/One-to-One/One-to-One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HQL/One-to-One (2).iml" filepath="$PROJECT_DIR$/HQL/One-to-One (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Relationship-In-Hibernate.iml" filepath="$PROJECT_DIR$/.idea/Relationship-In-Hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL.iml" filepath="$PROJECT_DIR$/SQL.iml" />
+    </modules>
+  </component>
+</project>
